@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Nerkar.
-- 👀 I’m interested in Playing BGMI, watching Web Series and Anime.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Web-Development and Android Development
+- 👀 I’m interested in Cloud Computing and ML 
+- 🌱 I’m currently learning C++ and DSA
+- 💞️ I’m looking to collaborate on Web-Development and C++ projects
 - 📫 How to reach me adityanerkar776@gmail.com
 
 <!---
